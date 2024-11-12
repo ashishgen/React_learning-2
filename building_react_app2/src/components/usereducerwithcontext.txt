@@ -1,0 +1,4 @@
+UseReducer with useContext
+useReducer-Local state management
+Share state between components-Globle state management
+useReducer + useContext

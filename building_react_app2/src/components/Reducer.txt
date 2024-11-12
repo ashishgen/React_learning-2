@@ -1,0 +1,16 @@
+UseReducer summary
+1. UseReducer is a hook that is used for state management in React
+2. UseReducer is related to reducer function.
+3. UseReducer (reducer, initialState).
+4. reducer(currentState, action)
+
+UseCallback hook
+What?
+UseCallback is a hook that will return a memoized version of the callback function that only
+changes if one of the dependencies has changed.
+
+why?
+It is useful when passing callbacks to optimized child components that rely on reference equality
+to prevent unnecessary render
+
+How?
