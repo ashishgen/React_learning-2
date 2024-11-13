@@ -1,0 +1,24 @@
+Hooks so far
+useState
+useEffect
+useContext
+UseReducer
+UseCallback
+useMemo
+useRef
+
+
+Hook are 
+ useimperative handle,
+ layout effect,
+ useevap value
+
+Custom Hooks
+A Custom Hook is basically a javascript function whose name starts with 'use'.
+A custom hook can also call other Hooks if required
+
+
+Why?
+Share logics--Alternative to HOCs and Render Props
+
+how to create custom hooks?
