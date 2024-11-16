@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import useCounter from '../Hooks/useCounter'
 
 function CounterOne1() {
-  const [count, increment, decrement, reset] = useCounter()
+  const [count, increment, decrement, reset] = useCounter(0, 1)
   return (
     <div>
         <h2>Count = {count}</h2>
