@@ -1,4 +1,4 @@
-import React,{useState} from 'react'
+import React, {useState} from 'react'
 
 const initState = {
     fname: "Bruce",
@@ -20,7 +20,7 @@ console.log("objectusestate Render")
 
 return (
     <div>
-        <button onClick={changeName}>{person.fname} {person.lname}</button>
+        <button onClick={change}>{person.fname} {person.lname}</button>
     </div>
 )
 }
