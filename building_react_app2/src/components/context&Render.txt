@@ -1,0 +1,4 @@
+Context And Render
+When the context provider is in the parent component and the parent component
+state updates, every child component re-renders and not just the component consuming
+the context value. 

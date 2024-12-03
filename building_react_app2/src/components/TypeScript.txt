@@ -1,0 +1,16 @@
+Why TypeScript + React
+
+with static type checking you get to learn about potential bugs as you are typing the code than
+heading to the browser and figuring out at runtime .
+
+provide a way to describe the shape of an object hence providing better documentation and 
+autocomplete
+
+Makes maintenance and refactoring of large code bases much easier
+
+
+TypeScript is just frustating most of the times.
+ i have to write a lot more code than i normally do and the compiler keeps complaining I simply
+ dont know what to do about those error .
+
+ it does not seem to be productive for me.
